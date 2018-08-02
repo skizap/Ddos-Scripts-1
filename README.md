@@ -1,5 +1,11 @@
 # DedsecAnon 
-Alot of good ddosing tools
 
-None off the tools were created by me but here are some amazing ddosing tools
-UPD,HTTP and even TCP
+Here are some off the crazy scripts i have and use  
+
+              /\                                                      
+             /  \   _ __   ___  _ __  _   _ _ __ ___   ___  _   _ ___ 
+            / /\ \ | '_ \ / _ \| '_ \| | | | '_ ` _ \ / _ \| | | / __|
+           / ____ \| | | | (_) | | | | |_| | | | | | | (_) | |_| \__ \
+          /_/    \_\_| |_|\___/|_| |_|\__, |_| |_| |_|\___/ \__,_|___/
+                                       __/ |                          
+                                      |___/
